@@ -1,16 +1,15 @@
-Exilence Next
-[![Become a Patreon](https://img.shields.io/badge/patreon-%F0%9F%8E%AF-orange.svg)](https://www.patreon.com/exilence)
+Exilence Community Fork
 ===
-Exilence Next is a desktop application that helps you calculate how valuable your character, inventory and stash tabs are. The data is broken down and summarized over time, to see how much you earn on an hourly basis. To add to this, you can also group up with friends directly within the app to see your combined net worth.
+Exilence Community Fork is a desktop application that helps you calculate how valuable your character, inventory and stash tabs are. The data is broken down and summarized over time, to see how much you earn on an hourly basis. To add to this, you can also group up with friends directly within the app to see your combined net worth.
 
-The app is a successor to our old application named Exilence, previously known as ExileParty.
+The app is a successor to our old application named Exilence Next, previously Exilence, previously known as ExileParty.
 
 ![Preview image](https://i.imgur.com/IfyINev.png)
 
 ## Contents
 
 - [Download](#download)
-- [Changelog](https://github.com/viktorgullmark/exilence-next/blob/master/CHANGELOG.md)
+- [Changelog](https://github.com/gw1108/ExilenceCommunityFork/blob/master/CHANGELOG.md)
 - [Platform](#platform)
 - [Contributing with development](#contributing-with-development)
 - [Contact us](#contact-us)
@@ -20,7 +19,7 @@ The app is a successor to our old application named Exilence, previously known a
 
 ## Download
 
-Download the latest release at https://github.com/viktorgullmark/exilence-next/releases/latest
+Download the latest release at https://github.com/gw1108/ExilenceCommunityFork/releases
 
 ## Platform
 
@@ -35,7 +34,7 @@ Currently runs with:
 
 ## Contributing with development
 
-Before submitting a PR, please see our [contributing guidelines](https://github.com/viktorgullmark/exilence-next/blob/master/CONTRIBUTING.md).
+Before submitting a PR, please see our [contributing guidelines](https://github.com/gw1108/ExilenceCommunityFork/blob/master/CONTRIBUTING.md).
 
 ---
 **Prerequisite for building LINUX**
@@ -80,13 +79,9 @@ npm run release (optional, to build the installer for production and release)
 
 ## Contact us
 
-Communicate with us at our Discord https://discord.gg/yxuBrPY
-
-Report bugs at https://github.com/viktorgullmark/exilence-next/issues
+Report bugs at https://github.com/gw1108/ExilenceCommunityFork/issues
 
 ## Supporting us
-
-If you feel like chiming in with something, here's our Patreon: https://www.patreon.com/exilence
 
 ## Acknowledgements
 
